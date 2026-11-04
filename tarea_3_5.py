@@ -67,3 +67,7 @@ print(error)
 
 errmedi = sum(error)/len(error)#al tomar una media del error ago una proximacion mas fiable del error del sistema
 print(errmedi, "error estimado") #el error puede variar un poco pero
+
+# Nota: 5.0
+# Base: 1/1; funcionamiento: 2/4; comentarios: 1/1; claridad: 1/1.
+# El criterio h igual a 30 admite composiciones distintas de diez personas de cada tipo, por lo que estima la probabilidad de otro evento.
